@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace MCBTask
+namespace MCBTask.MessageBox
 {
     public sealed partial class MessageBoxImproved : Form
     {

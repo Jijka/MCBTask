@@ -1,4 +1,4 @@
-﻿namespace MCBTask
+﻿namespace MCBTask.MessageBox
 {
     sealed partial class MessageBoxImproved
     {
@@ -60,7 +60,7 @@
             // 
             timer1 = new System.Windows.Forms.Timer(container: components) { Interval = 1000 };
             timer1.Tick += new System.EventHandler(timer1_Tick);
-            
+
 
             // 
             // MessageBoxText
